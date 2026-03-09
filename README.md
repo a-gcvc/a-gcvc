@@ -15,7 +15,7 @@ Some of the technologies that I have closely worked with until now are:
   - JavaScript
   - HTML/CSS
 
-If you think that we can talk more about the collaboration and engagement in the future, my [inbox](in/aminagacevic) is always open. 📥
+If you think that we can talk more about the collaboration and engagement in the future, my [inbox](www.linkedin.com/in/aminagacevic) is always open. 📥
 
 ![Profile views](https://komarev.com/ghpvc/?username=a-gcvc&color=green)
 <!--
