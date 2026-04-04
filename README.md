@@ -1,6 +1,4 @@
-## Hi there 👋  
-
-Welcome, it's nice to see you here! 🙌
+## It's nice to see you here! 👋  
 
 My name is Amina, and very soon I'll finish my bachelor's studies in software engineering. 💻
 
