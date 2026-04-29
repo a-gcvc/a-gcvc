@@ -15,7 +15,7 @@ Some of the technologies that I have closely worked with until now are:
 
 If you think that we can talk more about the collaboration and engagement in the future, feel free to contact me on LinkedIn. 📥
 
-![Profile views](https://komarev.com/ghpvc/?username=a-gcvc&color=purple)
+![Profile views](https://komarev.com/ghpvc/?username=a-gcvc&color=8a2be2)
 <!--
 **a-gcvc/a-gcvc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
