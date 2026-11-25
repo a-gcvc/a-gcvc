@@ -50,7 +50,7 @@ I have a track record of **successfully delivered projects**, along with partici
 
 ## 🤝 Let's connect
 
-I'm always open to connecting with people, exchanging ideas and discovering how technology can make a difference. If you think I could help you or your team, feel free to reach out on LinkedIn. 📥
+I'm always open to connecting with people, exchanging ideas, and discovering how technology can make a difference. If you think I could help you or your team, feel free to reach out on LinkedIn. 📥
 
 <div align="center">
 
