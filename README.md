@@ -59,7 +59,7 @@ I'm always open to connecting with people, exchanging ideas and discovering how 
 <a href="https://www.linkedin.com/in/aminagacevic">
   <img src="https://img.shields.io/badge/Let's%20connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<img src="https://komarev.com/ghpvc/?username=aminagcvc&label=Profile+views&color=blueviolet&style=for-the-badge" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=aminagcvc&label=Profile+views&color=blueviolet&style=for-the-badge&base=136" alt="Profile views" />
 <br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:1e3a8a&height=100&section=footer" width="100%" alt="footer wave"/>
