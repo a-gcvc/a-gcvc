@@ -48,15 +48,18 @@ I have a track record of **successfully delivered projects**, along with partici
   <img src="https://skillicons.dev/icons?i=cpp,cs,python,js,html,css&perline=10" alt="Programming languages" />
 </p>
 
+**Languages I've closely worked with:** C++ · C# · Python · JavaScript · HTML/CSS
+
 ## 🤝 Let's connect
 
-I'm always open to connecting with people, exchanging ideas, and discovering how technology can make a difference. If you think I could help you or your team, feel free to reach out on LinkedIn. 📥
+I'm always open to connecting with people, exchanging ideas and discovering how technology can make a difference. If you think I could help you or your team, feel free to reach out on LinkedIn. 📥
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME">
+<a href="https://www.linkedin.com/in/aminagacevic">
   <img src="https://img.shields.io/badge/Let's%20connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
+<img src="https://komarev.com/ghpvc/?username=aminagcvc&label=Profile+views&color=blueviolet&style=for-the-badge" alt="Profile views" />
 <br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:1e3a8a&height=100&section=footer" width="100%" alt="footer wave"/>
