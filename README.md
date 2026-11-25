@@ -48,8 +48,6 @@ I have a track record of **successfully delivered projects**, along with partici
   <img src="https://skillicons.dev/icons?i=cpp,cs,python,js,html,css&perline=10" alt="Programming languages" />
 </p>
 
-**Languages I've closely worked with:** C++ · C# · Python · JavaScript · HTML/CSS
-
 ## 🤝 Let's connect
 
 I'm always open to connecting with people, exchanging ideas and discovering how technology can make a difference. If you think I could help you or your team, feel free to reach out on LinkedIn. 📥
